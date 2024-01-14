@@ -1,0 +1,21 @@
+.background {
+    height: max-content;
+    background-image: url('https://cdn11.bigcommerce.com/s-r7ihvq/images/stencil/original/carousel/66/Clean_Living.jpg?c=3');
+    background-repeat:no-repeat;
+    background-size: cover;
+    padding-top: 30vh;
+    padding-bottom: 40vh;
+}
+
+.button {
+    --tw-bg-opacity: 1;
+    background-color: rgb(202 138 4 / var(--tw-bg-opacity));
+    color: white;
+    border-radius: 3px;
+    padding: 10px 40px;
+}
+
+.divbutton {
+    display: flex;
+    justify-content: center;
+}

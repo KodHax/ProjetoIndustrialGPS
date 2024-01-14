@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.h1Dash {
+    display: flex;
+    justify-content: center;
+}

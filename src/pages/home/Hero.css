@@ -1,0 +1,20 @@
+.background {
+    height: max-content;
+    background-repeat:no-repeat;
+    background-size: cover;
+    padding-top: 30vh;
+    padding-bottom: 30vh;
+}
+
+.button {
+    --tw-bg-opacity: 1;
+    background-color: rgb(202 138 4 / var(--tw-bg-opacity));
+    color: white;
+    border-radius: 3px;
+    padding: 10px 40px;
+}
+
+.divbutton {
+    display: flex;
+    justify-content: center;
+}

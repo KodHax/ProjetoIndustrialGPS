@@ -1,0 +1,41 @@
+.navbar {
+  height: 50px; 
+  --tw-bg-opacity: 1;
+    background-color: rgb(17 24 39 / var(--tw-bg-opacity));
+  display: flex;
+  justify-content: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.navContainer {
+  width: 100%;
+  max-width: 1024px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  font-weight: 500;
+  font-size: 30px;
+}
+
+.navButton {
+  background-color: #0071c2;
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  display: inline-block;
+  margin-right: 10px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.username {
+  font-size: 18px;
+  font-weight: 500;
+  text-transform: capitalize;
+}
